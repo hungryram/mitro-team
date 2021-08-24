@@ -1,23 +1,24 @@
 ---
-company_name: Real Estate Company
+company_name: LIFE Realty District
 social_media:
-  instagram: er
-  twitter: er
-  facebook: er
+  instagram: ''
+  twitter: ''
+  facebook: ''
   pinterest: ''
   yelp: ''
   linkedin: ''
   tiktok: ''
+  youtube: ''
 contact_information:
-  phone: ''
-  name: John Doe
-  cell: 232-453-3467
-  address: 419 Street Address
-  email: ram@hungryram.com
+  phone: 702-285-7778
+  name: Mitro Team
+  cell: ''
+  address: 2225 Village Walk Dr.  Suite 200
+  email: agentmitro@gmail.com
   license: 'BRE #541152d1f55'
-  city: Yorba Linda
-  state: California
-  zip_code: "92882"
+  city: Henderson
+  state: NV
+  zip_code: "89074"
 search_engine_optimization:
   title_tag: Real Estate Theme
   meta_description: The only real estate theme you need
