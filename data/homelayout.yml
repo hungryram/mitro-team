@@ -17,12 +17,10 @@ slideshow:
 home_sections:
 - template: text-and-image
   heading: Discover Our Finest Homes
-  body: Each section of the home page can be arranged and customized through your
-    phone or computer. Easily manage your website through our website editor customized
-    specifically for real estate professionals.
+  body: Best Real Estate Agents in the business. We give our clients expert advice on selling, buying and managing their real estate investments with professionalism and integrity. We also have experience in the solar energy field and can assist our clients in transitioning to renewable energy sources.
   button: Read more
   button_link: "/our-team"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605402573/templates/realestate2/agent-4_ovchvb.jpg
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1629830483/jacob-mitro/mitro-team/mitro-team_qlnqoq.png
   image_alt_tag: John
   image_width: 400
 - template: active-listings
