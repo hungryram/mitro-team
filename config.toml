@@ -7,6 +7,21 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "Housing Market Data"
+parent = "Resources"
+url = "http://www.appliedanalysis.com/work/data.php"
+weight = 4
+[[menu.main]]
+name = "Henderson Economics"
+parent = "Resources"
+url = "https://hendersondata.com/"
+weight = 3
+[[menu.main]]
+name = "Zillow"
+parent = "Resources"
+url = "https://www.zillow.com/henderson-nv/home-values/"
+weight = 2
+[[menu.main]]
 name = "IDX Property Organizer"
 parent = "Buyers"
 url = "https://search.idxhome.com//organizer/login/133407"
@@ -17,28 +32,23 @@ parent = "Buyers"
 url = "https://search.idxhome.com/homesearch/133407"
 weight = 2
 [[menu.main]]
-name = "Blog"
-parent = "Resources"
-url = "/blog"
-weight = 3
-[[menu.main]]
 name = "Home Value Request"
 parent = "Sellers"
 url = "/home-valuation"
 weight = 1
 [[menu.main]]
-name = "Resources"
-weight = 4
-[[menu.main]]
-name = "Sellers"
-weight = 3
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
 name = "Buyers"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Sellers"
+weight = 3
+[[menu.main]]
+name = "Resources"
+weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
