@@ -22,15 +22,10 @@ parent = "Resources"
 url = "https://www.zillow.com/henderson-nv/home-values/"
 weight = 2
 [[menu.main]]
-name = "IDX Property Organizer"
-parent = "Buyers"
-url = "https://search.idxhome.com//organizer/login/133407"
-weight = 3
-[[menu.main]]
 name = "Search the MLS"
 parent = "Buyers"
 url = "https://search.idxhome.com/homesearch/133407"
-weight = 2
+weight = 1
 [[menu.main]]
 name = "Home Value Request"
 parent = "Sellers"
