@@ -145,4 +145,5 @@ fields:
   template: url
   label: URL
 pages:
+- content/our-team/beth-mitro.md
 - content/our-team/jacob-mitro.md
