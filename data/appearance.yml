@@ -18,10 +18,10 @@ footer:
   realtor_logo: true
   important_documents: []
 branding:
-  site_title: Real Estate
-  logo: https://res.cloudinary.com/hungryram19/image/upload/v1628898739/templates/realestate2/re-logo_l6o3kg.png
-  favicon: https://res.cloudinary.com/hungryram19/image/upload/v1605403329/templates/realestate2/cropped-logotrans_qowdad.png
-  dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1628898739/templates/realestate2/re-logo_l6o3kg.png
+  site_title: Life Realty District
+  logo: https://res.cloudinary.com/hungryram19/image/upload/v1629829579/jacob-mitro/mitro-team/LifeRealtyDistrictLogo_ntltr4.png
+  favicon: https://res.cloudinary.com/hungryram19/image/upload/v1629829579/jacob-mitro/mitro-team/LifeRealtyDistrictLogo_ntltr4.png
+  dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1629829579/jacob-mitro/mitro-team/LifeRealtyDistrictLogo_ntltr4.png
   logo_width: 120
 header:
   top_header_color: "#070811"
