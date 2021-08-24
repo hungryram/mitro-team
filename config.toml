@@ -1,7 +1,7 @@
-baseURL = "https://vesper.netlify.app/"
+baseURL = "https://mitroteam.netlify.app/"
 languageCode = "en-us"
 summaryLength = 25
-title = "My New Hugo Site"
+title = "Homes for sale in Henderson | Life Realty District Mitro Team | United States"
 [[menu.footer]]
 name = "Home"
 url = "/"
