@@ -11,11 +11,11 @@ weight = 1
 meta_description = ""
 title_tag = ""
 [[testimonials]]
-date = "Sep 20, 2020"
-name = "Roger Benn"
-source = "https://www.hungryram.com/"
-source_label = "Hungry Ram"
-testimonial = "This is such a great theme. Very powerful. Thank you so much"
+date = ""
+name = "Cornwall Family"
+source = ""
+source_label = ""
+testimonial = "When I ever have a real estate question Jacob is the first person I call. He always makes time for me to get the answers I need. He's helped me in both the purchase of my home and with questions on tenant issues, as I property I like to manage myself."
 [[testimonials]]
 date = "Mar 15, 2018"
 name = "John Pagani"
