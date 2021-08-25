@@ -4,7 +4,7 @@ title = "10 Great Ways Selling a Home During the Holidays Benefits YOU!"
 title_tag = ""
 [menu.main]
 name = "Why You Should Sell During the Holidays"
-parent = "Sell"
+parent = "Sellers"
 weight = 3
 
 +++

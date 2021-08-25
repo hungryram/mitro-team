@@ -3,7 +3,7 @@ meta_description = ""
 title = "Thinking About Selling?"
 title_tag = ""
 [menu.main]
-parent = "Sell"
+parent = "Sellers"
 weight = 2
 
 +++

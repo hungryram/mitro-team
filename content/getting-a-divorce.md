@@ -4,7 +4,7 @@ title = "Getting a Divorce"
 title_tag = ""
 [menu.main]
 name = "Getting a Divorce?"
-parent = "Sell"
+parent = "Sellers"
 weight = 4
 
 +++
