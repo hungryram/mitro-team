@@ -2,6 +2,10 @@
 meta_description = ""
 title = "10 Great Ways Selling a Home During the Holidays Benefits YOU!"
 title_tag = ""
+[menu.main]
+name = "Why You Should Sell During the Holidays"
+parent = "Sell"
+weight = 3
 
 +++
 ### Home selling during the holidays…

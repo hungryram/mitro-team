@@ -2,6 +2,9 @@
 meta_description = ""
 title = "Thinking About Selling?"
 title_tag = ""
+[menu.main]
+parent = "Sell"
+weight = 2
 
 +++
 ### Selling a Home? Don't wait. Call Us 702-285-3444

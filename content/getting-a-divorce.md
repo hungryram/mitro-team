@@ -2,6 +2,10 @@
 meta_description = ""
 title = "Getting a Divorce"
 title_tag = ""
+[menu.main]
+name = "Getting a Divorce?"
+parent = "Sell"
+weight = 4
 
 +++
 ### Selling When You Divorce? Here's What to Consider
