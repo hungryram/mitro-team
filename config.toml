@@ -7,30 +7,40 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "Mortgage Calculator"
+parent = "Resources"
+url = "https://mitroteam.idxbroker.com/idx/mortgage"
+weight = 11
+[[menu.main]]
 name = "Apply for Mortgage w/SWBC"
 parent = "Resources"
 url = "https://apply.swbcmortgage.com/#/milestones?referrerId=tracy.logan%40swbc.com"
-weight = 9
+weight = 10
 [[menu.main]]
 name = "Nevada Solar Info"
 parent = "Resources"
 url = "https://www.seia.org/state-solar-policy/nevada-solar"
-weight = 8
+weight = 9
+[[menu.main]]
+name = "Featured Listings"
+parent = "Buyers"
+url = "https://mitroteam.idxbroker.com/idx/featured"
+weight = 2
 [[menu.main]]
 name = "Nevada Economics"
 parent = "Resources"
 url = "https://nevadadashboard.com/"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "Las Vegas Foreclosure Data"
 parent = "Resources"
 url = "https://communitydashboard.vegas/foreclosure"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "Las Vegas Economics"
 parent = "Resources"
 url = "https://communitydashboard.vegas/"
-weight = 5
+weight = 6
 [[menu.main]]
 name = "Housing Market Data"
 parent = "Resources"
@@ -49,7 +59,7 @@ weight = 2
 [[menu.main]]
 name = "Search the MLS"
 parent = "Buyers"
-url = "https://search.idxhome.com/homesearch/133407"
+url = "https://mitroteam.idxbroker.com/idx/search/basic"
 weight = 1
 [[menu.main]]
 name = "Home Value Request"

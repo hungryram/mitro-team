@@ -5,7 +5,7 @@ title_tag = ""
 [menu.main]
 name = "Know Before You Buy"
 parent = "Buyers"
-weight = 3
+weight = 4
 
 +++
 Buying a home can be one of your most significant investments in life. Not only are you choosing your dwelling place, and the place in which you will bring up your family, you are most likely investing a large portion of your assets into this venture.

@@ -5,7 +5,7 @@ title_tag = ""
 [menu.main]
 name = "First Time Home Buyer Info"
 parent = "Buyers"
-weight = 2
+weight = 3
 
 +++
 If you are a first-time home buyer, use the guide below for helpful hints and tips and learn how to avoid common mistakes when buying your first home in Tampa, FL.
