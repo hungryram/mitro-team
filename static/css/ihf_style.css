@@ -1,3 +1,26 @@
+/* IDXBROKER QS */
+.IDX-qsTextInput,
+select#IDX-qsCityList-19342 {
+    max-width: 100%;
+    border: 0 none;
+    background: #fff;
+    color: #666;
+    height: 20px;
+}
+
+#IDX-quicksearchForm-19342 .IDX-qsLabel {
+    padding-top: 0!important;
+    padding-right: 5px;
+}
+
+input#IDX-qsSubmit-19342 {
+    background: #267bb9;
+    color: white;
+    box-shadow: none;
+    border: none;
+    padding: 5px 15px;
+}
+
 /* QUICKSEARCH */
 
 #ihf_select_bedrooms_homes_chosen > a {
