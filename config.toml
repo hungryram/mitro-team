@@ -22,11 +22,6 @@ parent = "Resources"
 url = "https://www.seia.org/state-solar-policy/nevada-solar"
 weight = 9
 [[menu.main]]
-name = "Featured Listings"
-parent = "Buyers"
-url = "https://mitroteam.idxbroker.com/idx/featured"
-weight = 2
-[[menu.main]]
 name = "Nevada Economics"
 parent = "Resources"
 url = "https://nevadadashboard.com/"
@@ -55,6 +50,11 @@ weight = 3
 name = "Zillow"
 parent = "Resources"
 url = "https://www.zillow.com/henderson-nv/home-values/"
+weight = 2
+[[menu.main]]
+name = "Featured Listings"
+parent = "Buyers"
+url = "https://mitroteam.idxbroker.com/idx/featured"
 weight = 2
 [[menu.main]]
 name = "Search the MLS"
