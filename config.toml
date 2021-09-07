@@ -2,6 +2,8 @@ baseURL = "https://www.mitroteam.com/"
 languageCode = "en-us"
 summaryLength = 25
 title = "Homes for sale in Henderson | Life Realty District Mitro Team | United States"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = "true"
 [[menu.footer]]
 name = "Home"
 url = "/"
@@ -92,11 +94,3 @@ weight = 4
 home = ["HTML", "RSS", "JSON"]
 [params]
 cloudinary_url = "https://res.cloudinary.com/realestate2/image/upload/"
-[taxonomies]
-category = "categories"
-cities = "cities"
-featured = "featured"
-properties = "properties"
-states = "states"
-status = "status"
-tag = "tags"
