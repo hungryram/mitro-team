@@ -7,15 +7,9 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Featured Listings"
-parent = "Buyers"
-url = "https://search.mitroteam.com/idx/featured"
-weight = 2
-[[menu.main]]
-name = "Search the MLS"
-parent = "Buyers"
-url = "https://search.mitroteam.com/idx/search/basic"
-weight = 1
+name = "Login"
+url = "https://search.mitroteam.com/idx/userlogin"
+weight = 5
 [[menu.main]]
 name = "Mortgage Calculator"
 parent = "Resources"
@@ -57,6 +51,11 @@ parent = "Resources"
 url = "https://hendersondata.com/"
 weight = 3
 [[menu.main]]
+name = "Featured Listings"
+parent = "Buyers"
+url = "https://search.mitroteam.com/idx/featured"
+weight = 2
+[[menu.main]]
 name = "Zillow"
 parent = "Resources"
 url = "https://www.zillow.com/henderson-nv/home-values/"
@@ -65,6 +64,11 @@ weight = 2
 name = "Home Value Request"
 parent = "Sellers"
 url = "/home-valuation"
+weight = 1
+[[menu.main]]
+name = "Search the MLS"
+parent = "Buyers"
+url = "https://search.mitroteam.com/idx/search/basic"
 weight = 1
 [[menu.main]]
 name = "Home"
