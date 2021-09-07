@@ -7,6 +7,46 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "Nevada Solar Info"
+parent = "Resources"
+url = "https://www.seia.org/state-solar-policy/nevada-solar"
+weight = 10
+[[menu.main]]
+name = "Nevada Economics"
+parent = "Resources"
+url = "https://nevadadashboard.com/"
+weight = 9
+[[menu.main]]
+name = "Las Vegas Foreclosure Data"
+parent = "Resources"
+url = "https://communitydashboard.vegas/foreclosure"
+weight = 8
+[[menu.main]]
+name = "Las Vegas Economics"
+parent = "Resources"
+url = "https://communitydashboard.vegas/"
+weight = 7
+[[menu.main]]
+name = "Housing Market Data"
+parent = "Resources"
+url = "http://www.appliedanalysis.com/work/data.php"
+weight = 5
+[[menu.main]]
+name = "Henderson Economics"
+parent = "Resources"
+url = "https://hendersondata.com/"
+weight = 4
+[[menu.main]]
+name = "Zillow"
+parent = "Resources"
+url = "https://www.zillow.com/henderson-nv/home-values/"
+weight = 3
+[[menu.main]]
+name = "Market Report"
+parent = "Resources"
+url = "https://search.mitroteam.com/idx/market-reports"
+weight = 2
+[[menu.main]]
 name = "Login"
 url = "https://search.mitroteam.com/idx/userlogin"
 weight = 5
@@ -14,51 +54,16 @@ weight = 5
 name = "Mortgage Calculator"
 parent = "Resources"
 url = "https://search.mitroteam.com/idx/mortgage"
-weight = 11
+weight = 12
 [[menu.main]]
 name = "Apply for Mortgage w/SWBC"
 parent = "Resources"
 url = "https://apply.swbcmortgage.com/#/milestones?referrerId=tracy.logan%40swbc.com"
-weight = 10
-[[menu.main]]
-name = "Nevada Solar Info"
-parent = "Resources"
-url = "https://www.seia.org/state-solar-policy/nevada-solar"
-weight = 9
-[[menu.main]]
-name = "Nevada Economics"
-parent = "Resources"
-url = "https://nevadadashboard.com/"
-weight = 8
-[[menu.main]]
-name = "Las Vegas Foreclosure Data"
-parent = "Resources"
-url = "https://communitydashboard.vegas/foreclosure"
-weight = 7
-[[menu.main]]
-name = "Las Vegas Economics"
-parent = "Resources"
-url = "https://communitydashboard.vegas/"
-weight = 6
-[[menu.main]]
-name = "Housing Market Data"
-parent = "Resources"
-url = "http://www.appliedanalysis.com/work/data.php"
-weight = 4
-[[menu.main]]
-name = "Henderson Economics"
-parent = "Resources"
-url = "https://hendersondata.com/"
-weight = 3
+weight = 11
 [[menu.main]]
 name = "Featured Listings"
 parent = "Buyers"
 url = "https://search.mitroteam.com/idx/featured"
-weight = 2
-[[menu.main]]
-name = "Zillow"
-parent = "Resources"
-url = "https://www.zillow.com/henderson-nv/home-values/"
 weight = 2
 [[menu.main]]
 name = "Home Value Request"
