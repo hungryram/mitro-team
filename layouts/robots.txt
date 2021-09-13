@@ -3,3 +3,7 @@ Sitemap: {{ .Site.BaseURL }}sitemap.xml
 Sitemap: https://search.mitroteam.com/idx/sitemap/xml/4637208ac90
 Disallow: /thank-you/
 Disallow: /404/
+Disallow: /blog/what-to-repair-before-you-list/
+Disallow: /blog/your-guide-to-home-appraisal/
+Disallow: /blog/priority-tasks-for-your-move-in/
+Disallow: /blog/hidden-fees-to-be-aware-of-when-purchasing-a-home/

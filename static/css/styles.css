@@ -76,7 +76,7 @@ button.uk-button.uk-button-primary {
   }
 
 .hero-overlay {
-    background: rgba(69 69 69 / 30%);
+    background: rgba(69 69 69 / 25%);
 }
 
 .listing-detail-overlay {
@@ -144,7 +144,7 @@ div.uk-navbar-dropdown {
 
 /* WHITE/BLACK LOGO */
 
-.uk-navbar-sticky .white-logo {
+/* .uk-navbar-sticky .white-logo {
     display: none;
 }
 
@@ -162,7 +162,7 @@ div.full-nav-wrapper:hover .dark-logo {
 
 div.full-nav-wrapper:hover .white-logo {
     display: none;
-}
+} */
 
 
 /* FORM */
