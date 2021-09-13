@@ -1,0 +1,89 @@
+[[redirects]]
+  from = "/home"
+  to = "/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/first-time-home-buyers"
+  to = "/first-time-homebuyer/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/buyers-1"
+  to = "/buyers-need-an-experienced-agent/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/copy-of-sell-a-home"
+  to = "/thinking-about-selling/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/why-you-should-sell-during-the-holi"
+  to = "/thinking-about-selling/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/copy-of-sell-a-home"
+  to = "/10-great-ways-selling-a-home-during-the-holidays-benefits-you/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/aboutus"
+  to = "/our-team/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/jacob-mitro-bio"
+  to = "/our-team/jacob-mitro/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/beth-mitro-bio"
+  to = "/our-team/beth-mitro/"
+  status = 301
+  force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/our-las-vegas-adventures"
+to = "/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/why-you-should-sell-during-the-holi"
+to = "/10-great-ways-selling-a-home-during-the-holidays-benefits-you/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/neighborhoods"
+to = "https://search.mitroteam.com/idx/featured"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/privacy-policy"
+to = "legal/privacy-policy"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/terms-glossary"
+to = "/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/foreclosures"
+to = "/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
