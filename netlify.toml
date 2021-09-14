@@ -87,3 +87,39 @@ from = "/foreclosures"
 to = "/"
 status = 301
 force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/migration-map"
+to = "/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/buy"
+to = "/first-time-homebuyer/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/blank"
+to = "/"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/market-reports"
+to = "https://search.mitroteam.com/idx/market-reports"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/portfolio"
+to = "https://search.mitroteam.com/idx/featured"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/blog/archive/*"
+to = "/blog"
+status = 301
+force = true #COMMENT: ensure that we always redirect
