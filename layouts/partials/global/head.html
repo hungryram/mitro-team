@@ -25,6 +25,7 @@
 
 <!-- START SEO -->
 {{ if in .Permalink "ihf" }}
+{{ partial "global/idx-seo" . }}
 {{ else }}
 {{ partial "global/seo" . }}
 {{ end }}
