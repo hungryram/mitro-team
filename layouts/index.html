@@ -226,30 +226,29 @@
             </div>
             <div class="uk-width-1-2@s">
                 <div class="text-form">
-                  <form name="Website Contact Form" method="POST" netlify-honeypot="bot-field" data-netlify="true" class="uk-grid-small" uk-grid action="/thank-you">
-                    <input name="bot-field" type="hidden" />
-                    <input type="hidden" name="Subject" value="Website Contact Form">
-                    <input name="Source" type="hidden" value="{{ .Permalink }}" />
-                
-                    <div class="uk-width-1-2@s">
-                        <input class="uk-input" type="text" placeholder="Name" name="Name">
-                    </div>
-                    <div class="uk-width-1-2@s">
-                        <input class="uk-input" type="text" placeholder="Phone" name="Phone">
-                    </div>
-                    <div class="uk-width-1-1">
-                        <input class="uk-input" type="text" placeholder="Email" name="Email">
-                    </div>
-                    <div class="uk-width-1-1">
-                        <textarea class="uk-textarea" rows="5" placeholder="Your Message" name="Message"></textarea>
-                    </div>
-                    <div class="uk-width-1-1">
-                        <button class="uk-button uk-button-primary" {{ if $buttonColor.button_background_color }}style="background:{{ $buttonColor.button_background_color }};color:{{ $buttonColor.button_text_color }};"{{ end }}>Submit</button>
-                    </div>
-                    <div class="uk-width-1-1">
-                        <p>By submitting the form with your information above you are agreeing to our <a style="color:{{ $linkColor }}" href="/legal/terms-and-conditions">Terms and Conditions</a> and <a style="color:{{ $linkColor }}" href="/legal/privacy-policy">Privacy Policy</a></p>
-                    </div>
-                </form>
+                  <style>
+                    #IDX-widgetLeadSignupForm input.IDX-LeadSignupInput,
+                    form#IDX-widgetLeadSignupForm {
+                    max-width: 300px!important;
+                  }
+                  .IDX-LeadSignupInput.IDX-leadLoginTextInput {
+                    max-width: 100%;
+                    width: 100%;
+                    border: 0 none;
+                    padding: 0 10px;
+                    height: 30px;
+                    background: #fff;
+                    color: #666;
+                    border: 1px solid #e5e5e5;
+                  }
+
+                  input#IDX-widgetsubmit {
+                    background: #3BA9DB;
+                    color: #fff;
+                    
+                  }
+                  </style>
+                  <script charset="UTF-8" type="text/javascript" id="idxwidgetsrc-29671" src="//search.mitroteam.com/idx/leadsignupwidget.php?widgetid=29671"></script>
                 </div>
             </div>
         </div>

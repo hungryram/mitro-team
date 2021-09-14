@@ -7,6 +7,7 @@ image_alt_tag = "Modern farmhouse kitchen"
 tags = []
 title = "Priority Tasks For Your Move In"
 url = ""
+noindex = true
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""

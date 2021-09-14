@@ -123,3 +123,15 @@ from = "/blog/archive/*"
 to = "/blog"
 status = 301
 force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "/home-valuation/"
+to = "https://search.mitroteam.com/idx/homevaluation"
+status = 301
+force = true #COMMENT: ensure that we always redirect
+
+[[redirects]]
+from = "contact"
+to = "https://search.mitroteam.com/idx/contact"
+status = 301
+force = true #COMMENT: ensure that we always redirect

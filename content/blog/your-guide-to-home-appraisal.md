@@ -10,7 +10,7 @@ url = ""
 [search_engine_optimization]
 meta_description = ""
 title_tag = ""
-
+noindex = true
 +++
 You’ve found your dream home and now it’s time to cross all your T’s and dot all your I’s before it’s all your own. And one of the first items on your closing checklist the home appraisal. So, what exactly is that?
 

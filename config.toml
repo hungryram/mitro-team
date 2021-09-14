@@ -48,9 +48,9 @@ parent = "Resources"
 url = "https://search.mitroteam.com/idx/market-reports"
 weight = 2
 [[menu.main]]
-name = "Login"
+name = "My Account"
 url = "https://search.mitroteam.com/idx/userlogin"
-weight = 5
+weight = 8
 [[menu.main]]
 name = "Mortgage Calculator"
 parent = "Resources"
