@@ -40,10 +40,10 @@ sidebar:
     latest_posts: ''
   single_property_sidebar: true
 colors:
-  button_background_color: "#2A79B8"
+  button_background_color: "#3BA9DB"
   button_text_color: "#FFFFFF"
-  links: "#2A79B8"
-  accent: "#2A79B8"
+  links: "#3BA9DB"
+  accent: "#3BA9DB"
 search_field:
   disable_search: false
   search_by_state: false
