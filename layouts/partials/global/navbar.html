@@ -99,9 +99,9 @@
                 {{ if $headerSocial.facebook }}<a href="{{ $headerSocial.facebook }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="facebook" target="_blank"></a>{{ end }}
                 {{ if $headerSocial.pinterest }}<a href="{{ $headerSocial.pinterest }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="pinterest" target="_blank"></a>{{ end }}
                 {{ if $headerSocial.twitter }}<a href="{{ $headerSocial.twitter }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="twitter" target="_blank"></a>{{ end }}
-                {{ if $navContact.email }}<a href="{{ $navContact.email }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="mail" target="_blank"></a>{{ end }}
-                {{ if $navContact.phone }}<a href="{{ $navContact.phone }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="receiver" target="_blank"></a>{{ end }}
-                {{ if $navContact.cell }}<a href="{{ $navContact.cell }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="phone" target="_blank"></a>{{ end }}
+                {{ if $navContact.email }}<a href="mailto:{{ $navContact.email }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="mail" target="_blank"></a>{{ end }}
+                {{ if $navContact.phone }}<a href="tel:{{ $navContact.phone }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="receiver" target="_blank"></a>{{ end }}
+                {{ if $navContact.cell }}<a href="tel:{{ $navContact.cell }}" class="uk-icon-button  uk-margin-small-right uk-margin-small-top" uk-icon="phone" target="_blank"></a>{{ end }}
 
             </ul>
         </div>
