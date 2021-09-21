@@ -43,8 +43,8 @@ No matter how attractive and polished your house, buyers will be comparing its p
 
 #### You need a Team of Experienced Agents
 
-##### While most agents can only help you buy or sell a home because they only have a sales license. I have 2 licenses. I can help you find a property and I can help you get your home rented and manage it for you.
+##### While most agents can only help you buy or sell your home because they only have a sales license. The Mitro Team has 3 licenses: Sales, Property Management and Broker Sales. We can help you find a property, and we can help you get your home rented and even manage it for you.  And if you've considered going solar we can also connect you with Top Tier Solar panels and a system that will save you money while helping the environment.
 
-##### I provide full service real estate services to all of my clients.
+##### We provide full service real estate services to all of my clients.
 
-##### [Email me](mailto:jacobmitro@gmail.com?subject=I%20need%20a%20Full%20Service%20agent) if you need me to send you a Rental Market Analysis.
+##### [Email me](mailto:jacobmitro@gmail.com?subject=I%20need%20a%20Full%20Service%20agent) if you need us to send you a Rental Market Analysis in addition to showing you how much your home is worth today.
