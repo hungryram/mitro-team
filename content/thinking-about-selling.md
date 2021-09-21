@@ -21,7 +21,7 @@ If you price too low, you'll short-change yourself. Your house will sell promptl
 
 **NOTE: Never say "asking" price, which implies you don't expect to get it.**
 
-## Talk to an Expert. Call Jacob 702-285-3444
+## Talk to the Experts. Call Jacob and Beth 702-285-3444
 
 To determine the proper list price CONTACT ME TODAY and I'll provide you with the following professional services:
 
@@ -35,7 +35,7 @@ To determine the proper list price CONTACT ME TODAY and I'll provide you with th
 **Using Comparable Sales**  
 No matter how attractive and polished your house, buyers will be comparing its price with everything else on the market. Your best guide is a record of what the buying public has been willing to pay in the past few months for property in your neighborhood like yours. We furnish data on sale figures for those "comps", and analyze them for a suggested listing price. The decision about how much to ask, though, is always yours. The list of comparable sales we bring to you, along with data about other houses in your neighborhood presently on the market, is used for a "FREE Comparative Market Analysis (CMA)."
 
-### You need an Experienced Agent
+### You need a Team of Experienced Agents
 
 While most agents can only help you buy or sell a home because they only have a sales license. I have 2 licenses. I can help you find a property and I can help you get your home rented and manage it for you.
 
