@@ -4,7 +4,7 @@ title = "Remodeling"
 title_tag = ""
 [menu.main]
 parent = "Resources"
-weight = 13
+weight = 14
 
 +++
 Thinking about Remodeling, but don't know if your going to get value back on your design ideas? Well, there are a ton of ways to make changes to your home and see a return on your investment. Here are some links to new, modern remodel ideas.
