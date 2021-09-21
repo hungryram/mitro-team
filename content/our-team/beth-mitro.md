@@ -10,7 +10,7 @@ phone = "702-285-7778"
 [details]
 agent_photo = "https://res.cloudinary.com/hungryram19/image/upload/v1629844250/jacob-mitro/mitro-team/beth-mitro_tq3n4o.jpg"
 languages = []
-license_number = ""
+license_number = "bs.00146137"
 office = []
 specialty = []
 title = "Realtor/Team Leader"
