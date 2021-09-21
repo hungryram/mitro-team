@@ -20,7 +20,7 @@ meta_description = ""
 title_tag = ""
 [social_media]
 facebook = "https://www.facebook.com/AgentMitro"
-instagram = ""
+instagram = "https://www.instagram.com/bethmitrorealestate/"
 linkedin = "https://www.linkedin.com/in/hendersonhomesforsale/"
 pinterest = ""
 tiktok = ""
