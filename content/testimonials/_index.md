@@ -1,5 +1,5 @@
 +++
-body = "View Client reviews"
+body = "View client reviews."
 meta_description = "Our clients put their trust in our team"
 title = "Testimonial"
 title_tag = "Testimonial"
@@ -8,8 +8,8 @@ name = "Testimonials"
 parent = "Resources"
 weight = 1
 [search_engine_optimization]
-meta_description = ""
-title_tag = ""
+meta_description = "View testimonials from our past clients who have worked with the Mitro Team"
+title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
 name = "Cornwall Family"
