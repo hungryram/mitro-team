@@ -21,7 +21,7 @@ title_tag = ""
 [social_media]
 facebook = "https://www.facebook.com/mitrojacob"
 instagram = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/lasvegasnvhomes/"
 pinterest = ""
 tiktok = ""
 twitter = "https://twitter.com/REOMitroVegas"
