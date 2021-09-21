@@ -8,9 +8,7 @@ parent = "Sellers"
 weight = 3
 
 +++
-### Home selling during the holidays…
-
-### it works!
+### Home selling during the holidays…it works!
 
 Holiday season is fast approaching and you are considering selling your home during the holidays. You planned on making a killing in the spring market but somehow you never managed to stage your home and do the necessary repairs to put in on the market in time. Summer came and went in a flutter of family actives and vacations. Now here you are in late fall. Lucky for you it is a seller’s market and the inventory is low! Homes are selling with multiple offers and escalation clauses well over the asking price. Don’t beat yourself up because you never got around to painting the living room! There is still time to prepare your home for the fall/winter market. Here is how home selling during the holidays can work to your advantage!
 
