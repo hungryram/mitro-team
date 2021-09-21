@@ -1,6 +1,6 @@
 +++
 meta_description = ""
-title = "Getting a Divorce"
+title = "Selling During a Divorce"
 title_tag = ""
 [menu.main]
 name = "Getting a Divorce?"
