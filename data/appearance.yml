@@ -40,7 +40,7 @@ sidebar:
     latest_posts: ''
   single_property_sidebar: true
 colors:
-  button_background_color: "#3BA9DB"
+  button_background_color: "#3B5ADB"
   button_text_color: "#FFFFFF"
   links: "#3BA9DB"
   accent: "#3BA9DB"
