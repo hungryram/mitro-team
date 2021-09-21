@@ -44,13 +44,13 @@
                             <div class="uk-navbar-dropdown">
                                 <ul class="uk-nav uk-navbar-dropdown-nav">
                                     {{ range .Children }}
-                                    <li class="uk-active"><a href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+                                    <li class="uk-active"><a href="{{ .URL | absURL }}"{{ if in .URL "https://" }} target="_blank"{{ end }}>{{ .Name }}</a></li>
                                     {{ end }}
                                 </ul>
                             </div>
                         </li>
                         {{ else }}
-                        <li><a href="{{ .URL | absURL }}" style="{{ if $navColor.enable_white_text }}color: #fff{{ else }}color: #000;{{ end }}">{{ .Name }}</a></li>
+                        <li><a href="{{ .URL | absURL }}" style="{{ if $navColor.enable_white_text }}color: #fff{{ else }}color: #000;{{ end }}"{{ if in .URL "https://" }} target="_blank"{{ end }}>{{ .Name }}</a></li>
                         {{ end }}
                         {{ end }}
                         </ul>
@@ -106,3 +106,12 @@
             </ul>
         </div>
     </div>
+
+
+<script>
+  // Open external links in a new window or tab.
+  var domain = window.location.hostname;
+  domain = domain.substring(domain.indexOf('.') + 1);
+  var not = '[href*="' + domain + '"]';
+  $("a[href^='http']").not(not).attr('target','_blank');
+</script>
