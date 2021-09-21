@@ -30,7 +30,7 @@ Instant or video camera to help refresh your memory on individual properties, es
 
 Location: Look at a potential property as if you are the seller. Would a prospective buyer find it attractive based on school district, crime rate, proximity to positive (shopping, parks, freeway access) and negative (abandoned properties, garbage dump, source of noise) features of the area?
 
-Visualize the house empty & with your decor: Are the rooms laid out to fit your needs? Is there enough light?
+Visualize the house empty & with your decorations: Are the rooms laid out to fit your needs? Is there enough light?
 
 Be Objective: Instead of thinking with your heart when you find a home, think with your head. Does this home really meet your needs? There are many houses on the market, so don't make a hurried decision that you may regret later.
 
