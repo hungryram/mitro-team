@@ -20,9 +20,9 @@ home_sections:
   image_alt_tag: John
   image_width: 400
 - template: text-and-contact-form
-  heading: We help you sell your property for the most $ in the least amount of time
-  body: 'Engage with our professional real estate agents to sell, buy or rent your
-    home. '
+  heading: We help you get the highest price in the least amount of time.
+  body: If you've considered making a move do yourself a favor and call us. We know
+    what is going on in the market. We get you moving. Just ask one of our past clients.
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
   form:
     heading: Send a message
