@@ -8,15 +8,19 @@ footer:
   logo: ''
   footer_bio: Best Real Estate Agents in the business. We give our clients expert
     advice on selling, buying and managing their real estate investments with professionalism
-    and integrity. We also have experience in the solar energy field and can assist
-    our clients in transitioning to renewable energy sources.
+    and integrity. We are also licensed PV installers, and we help our clients transition
+    to renewable energy sources. Helping improve our clients lives and the planet
+    are our main goals.
   enable_black_text: false
-  disclaimer: |-
-    The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website.
-    While we strive to keep information accurate, we do not warrant the accuracy or completeness of the information, text, graphics, links or other items contained within these materials. Plead visit our full disclaimer for more information.
-  equal_housing_logo: false
-  mls_logo: false
-  realtor_logo: false
+  disclaimer: All data and information contained within this website is deemed reliable
+    but not guaranteed. We encourage visitors to do their own research to determine
+    the accuracy of material available on this website. While we strive to keep information
+    accurate, we cannot warrant the accuracy or completeness of the information, text,
+    graphics, links or other items contained within these materials. Plead visit our
+    full disclaimer for more information.
+  equal_housing_logo: true
+  mls_logo: true
+  realtor_logo: true
   important_documents: []
 branding:
   site_title: Life Realty District
