@@ -21,7 +21,7 @@ title_tag = ""
 [social_media]
 facebook = "https://www.facebook.com/AgentMitro"
 instagram = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/hendersonhomesforsale/"
 pinterest = ""
 tiktok = ""
 twitter = "https://twitter.com/vegashomes1111"
