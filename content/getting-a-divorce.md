@@ -8,7 +8,7 @@ parent = "Sellers"
 weight = 4
 
 +++
-### Selling When You Divorce? Here's What to Consider
+### Selling a Home During a Divorce? Here's What to Consider
 
 First and foremost, you should hire a real estate person familiar with divorce sales. This type of transaction requires a whole separate knowledge and experience skill set. Second, you should make copies of everything and keep a record of what actions you've taken.
 
