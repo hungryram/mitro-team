@@ -10,7 +10,7 @@ phone = "702-285-3444"
 [details]
 agent_photo = "https://res.cloudinary.com/hungryram19/image/upload/v1629843935/jacob-mitro/mitro-team/jacob-mitro_oc4jbe.jpg"
 languages = []
-license_number = ""
+license_number = "s.0051190/ pm.163859"
 office = []
 specialty = []
 title = "Realtor/Property Manager/Solar Consultant"
