@@ -3,10 +3,10 @@ title = " Jacob Mitro"
 url = ""
 weight = 50
 [contact]
-cell = "702-285-3444"
+cell = ""
 email = "jacobmitro@gmail.com"
 fax = ""
-phone = ""
+phone = "702-285-3444"
 [details]
 agent_photo = "https://res.cloudinary.com/hungryram19/image/upload/v1629843935/jacob-mitro/mitro-team/jacob-mitro_oc4jbe.jpg"
 languages = []
