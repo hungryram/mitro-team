@@ -20,7 +20,7 @@ meta_description = ""
 title_tag = ""
 [social_media]
 facebook = "https://www.facebook.com/mitrojacob"
-instagram = ""
+instagram = "https://www.instagram.com/mitrosellsre/"
 linkedin = "https://www.linkedin.com/in/lasvegasnvhomes/"
 pinterest = ""
 tiktok = ""
