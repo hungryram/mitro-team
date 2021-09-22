@@ -4,13 +4,21 @@ languageCode = "en-us"
 summaryLength = 25
 title = "Homes for sale in Henderson | Life Realty District Mitro Team | United States"
 [[menu.footer]]
+name = "Contact"
+url = "https://search.mitroteam.com/idx/contact"
+weight = 4
+[[menu.footer]]
+name = "Search the MLS"
+url = "https://search.mitroteam.com/idx/search/basic"
+weight = 3
+[[menu.footer]]
+name = "Featured Listings"
+url = "https://search.mitroteam.com/idx/featured"
+weight = 2
+[[menu.footer]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "My Account"
-url = "https://search.mitroteam.com/idx/userlogin"
-weight = 6
 [[menu.main]]
 name = "Migration, Population and County Growth"
 parent = "Resources"
@@ -62,14 +70,14 @@ parent = "Resources"
 url = "https://www.zillow.com/henderson-nv/home-values/"
 weight = 3
 [[menu.main]]
-name = "Featured Listings"
-parent = "Buyers"
-url = "https://search.mitroteam.com/idx/featured"
-weight = 2
-[[menu.main]]
 name = "Market Report"
 parent = "Resources"
 url = "https://search.mitroteam.com/idx/market-reports"
+weight = 2
+[[menu.main]]
+name = "Featured Listings"
+parent = "Buyers"
+url = "https://search.mitroteam.com/idx/featured"
 weight = 2
 [[menu.main]]
 name = "Find Your Home Value"
@@ -81,6 +89,10 @@ name = "Search the MLS"
 parent = "Buyers"
 url = "https://search.mitroteam.com/idx/search/basic"
 weight = 1
+[[menu.main]]
+name = "My Account"
+url = "https://search.mitroteam.com/idx/userlogin"
+weight = 6
 [[menu.main]]
 name = "Home"
 url = "/"
