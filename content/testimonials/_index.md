@@ -114,7 +114,7 @@ name = "Cornwall Family"
 photo = "https://res.cloudinary.com/hungryram19/image/upload/v1629849663/jacob-mitro/mitro-team/review_x3zizl.jpg"
 source = ""
 source_label = ""
-testimonial = "When I ever have a real estate question Jacob is the first person I call. He always makes time for me to get the answers I need. He's helped me in both the purchase of my home and with questions on tenant issues, as I property I like to manage myself."
+testimonial = "When I ever have a real estate question Jacob is the first person I call. He always makes time for me to get the answers I need. He's helped me in both the purchase of my home, and rental property, and with any tenant issue questions I have, as I like to manage my own property. And now he's selling my rental property for me. "
 [[testimonials]]
 date = ""
 name = "Welcome Family"
