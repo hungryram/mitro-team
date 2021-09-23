@@ -1,5 +1,5 @@
 +++
-body = "View client reviews."
+body = "Here is what our Clients have to say about working with the Mitro Team."
 meta_description = "Our clients put their trust in our team"
 title = "Testimonial"
 title_tag = "Testimonial"
