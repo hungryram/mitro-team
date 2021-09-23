@@ -81,6 +81,11 @@ fields:
     config:
       required: false
     label: Email
+  - name: secondary_email
+    type: text
+    config:
+      required: false
+    label: Secondary Email
   - name: address
     type: text
     config:
