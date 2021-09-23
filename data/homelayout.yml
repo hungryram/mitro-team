@@ -32,10 +32,10 @@ home_sections:
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
   form:
     heading: Send a message
-    body: Engage with our professional real estate agents to sell, buy or rent your
-      home. Get the latest home listings directly to your inbox and manage your home
-      search as you wish. You can easily make changes to your search or contact us
-      and we can help guide you to a successful home closing.
+    body: Contact the Mitro Team to sell, buy or manage your investment. Get the latest
+      home listings directly to your inbox and manage your home search as you wish
+      on your own time. You can easily make changes to your search or contact us and
+      we can help guide you to a successful home closing.
   background_color: "#424242"
   enable_white_text: true
 - template: home-blog
