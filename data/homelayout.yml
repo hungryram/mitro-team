@@ -23,7 +23,8 @@ home_sections:
   image_alt_tag: Mitro Team
   image_width: 400
 - template: text-and-contact-form
-  heading: We help you get the highest price in the least amount of time.
+  heading: We help you get the highest price in the least amount of time for your
+    home
   body: If you've considered making a move do yourself a favor and call us. We know
     what is going on in the market. We get you moving. Just ask one of our past clients.
     You'll be glad you did.
@@ -31,7 +32,9 @@ home_sections:
   form:
     heading: Send a message
     body: Engage with our professional real estate agents to sell, buy or rent your
-      home. Get emails directly to your inbox and manage the lead as you wish.
+      home. Get the latest home listings directly to your inbox and manage your home
+      search as you wish. You can easily make changes to your search or contact us
+      and we can help guide you to a successful home closing.
   background_color: "#424242"
   enable_white_text: true
 - template: home-blog
