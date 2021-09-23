@@ -12,6 +12,20 @@ meta_description = "View testimonials from our past clients who have worked with
 title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
+name = "Waldron Family"
+photo = "https://res.cloudinary.com/hungryram19/image/upload/v1632422560/jacob-mitro/mitro-team/Brad_Waldron_hovaph.jpg"
+source = ""
+source_label = ""
+testimonial = "**As someone relocating to the Vegas area, I was nervous about selecting an agent. After years of reading about the bizarre market conditions I was set on finding the right agent. Not only was Jacob very knowledgable and capable of explaining Las Vegas real estate to me, but we were a great personality match as well. He showed me a ridiculous number of homes before settling on the right one. I would recommend him to anyone looking for a home in Las Vegas.**"
+[[testimonials]]
+date = ""
+name = "Wu Family"
+photo = ""
+source = ""
+source_label = ""
+testimonial = "**Jacob is a very professional agent, a hard working nice guy. He's always patient and helpful, and the most important, he's an honest man, and this is the most important thing to me, I like honest guy...he manages my home very well, and does a great job. I would recommend him to anyone looking for a home in Las Vegas**"
+[[testimonials]]
+date = ""
 name = "Valverde Family"
 photo = "https://res.cloudinary.com/hungryram19/image/upload/v1632422440/jacob-mitro/mitro-team/Jacob_Valverde_k9jzfq.jpg"
 source = ""
