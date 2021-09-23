@@ -76,7 +76,7 @@ button.uk-button.uk-button-primary {
   }
 
 .hero-overlay {
-    background: rgba(69 69 69 / 25%);
+    background: rgb(17 17 17 / 50%);
 }
 
 .listing-detail-overlay {
@@ -142,6 +142,12 @@ div.uk-navbar-dropdown {
     }
 }
 
+@media screen and (max-width:768px) {
+    div.hero-text h1 {
+        font-size: 1.7rem;
+    }
+}
+
 /* WHITE/BLACK LOGO */
 
 /* .uk-navbar-sticky .white-logo {
@@ -162,6 +168,14 @@ div.full-nav-wrapper:hover .dark-logo {
 
 div.full-nav-wrapper:hover .white-logo {
     display: none;
+} */
+
+/* div.hero-text strong {
+    color: #0085eb!important;
+}
+
+div.hero-text em {
+    color: inherit;
 } */
 
 
