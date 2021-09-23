@@ -6,18 +6,16 @@ footer:
   footer_background_color: "#232733"
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
   logo: ''
-  footer_bio: Best Real Estate Agents in the business. We give our clients expert
+  footer_bio: 'Best Real Estate Agents in the business. We give our clients expert
     advice on selling, buying and managing their real estate investments with professionalism
-    and integrity. We are also licensed PV installers, and we help our clients transition
-    to renewable energy sources. Helping improve our clients lives and the planet
-    are our main goals.
+    and integrity. '
   enable_black_text: false
   disclaimer: All data and information contained within this website is deemed reliable
     but not guaranteed. We encourage visitors to do their own research to determine
     the accuracy of material available on this website. While we strive to keep information
     accurate, we cannot warrant the accuracy or completeness of the information, text,
-    graphics, links or other items contained within these materials. Plead visit our
-    full disclaimer for more information.
+    graphics, links or other items contained within these materials. Please visit
+    our full disclaimer for more information.
   equal_housing_logo: true
   mls_logo: true
   realtor_logo: true
