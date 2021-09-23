@@ -39,7 +39,7 @@ home_sections:
   background_color: "#424242"
   enable_white_text: true
 - template: home-blog
-  heading: The Blog
+  heading: The Mitro Team Blog
   body: Keep up with the latest blog posts
 slideshow_settings:
   slide_animation: fade
