@@ -12,6 +12,13 @@ meta_description = "View testimonials from our past clients who have worked with
 title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
+name = "Jarrod K."
+photo = ""
+source = ""
+source_label = ""
+testimonial = "**He had a buyer for the home in the 1st week.**"
+[[testimonials]]
+date = ""
 name = "Gilles Family"
 photo = "https://res.cloudinary.com/hungryram19/image/upload/v1632422153/jacob-mitro/mitro-team/DonDianeGilles_r6mewb.jpg"
 source = ""
