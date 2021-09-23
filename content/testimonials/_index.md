@@ -12,6 +12,13 @@ meta_description = "View testimonials from our past clients who have worked with
 title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
+name = "Valverde Family"
+photo = ""
+source = ""
+source_label = ""
+testimonial = "**I can honestly say Jacob Mitro is one of a kind, smart, trustworthy and an awesome person to work with. Jacob has so much integrity I will always have him at the top of my list and I highly recommend him. Over all he is a great man. He also sold my parents home over list in less than a week.**"
+[[testimonials]]
+date = ""
 name = "Jesse"
 photo = ""
 source = ""
