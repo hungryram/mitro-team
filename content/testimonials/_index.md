@@ -13,7 +13,7 @@ title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
 name = "Valverde Family"
-photo = ""
+photo = "https://res.cloudinary.com/hungryram19/image/upload/v1632422440/jacob-mitro/mitro-team/Jacob_Valverde_k9jzfq.jpg"
 source = ""
 source_label = ""
 testimonial = "**I can honestly say Jacob Mitro is one of a kind, smart, trustworthy and an awesome person to work with. Jacob has so much integrity I will always have him at the top of my list and I highly recommend him. Over all he is a great man. He also sold my parents home over list in less than a week.**"
