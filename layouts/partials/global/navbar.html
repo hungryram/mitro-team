@@ -16,6 +16,7 @@
                 <ul class="uk-navbar-nav top-bar">
                     {{ if $navContact.cell }}<li><a style="{{ if $navColor.enable_white_text_top }}color: #ddd{{ else }}color: #000;{{ end }}" href="tel:{{ $navContact.cell }}">{{ $navContact.cell }}</a></li>{{ end }}
                     {{ if $navContact.email }}<li><a style="{{ if $navColor.enable_white_text_top }}color: #ddd{{ else }}color: #000;{{ end }}" href="mailto:{{ $navContact.email }}">{{ $navContact.email }}</a></li>{{ end }}
+                    {{ if $navContact.secondary_email }}<li><a style="{{ if $navColor.enable_white_text_top }}color: #ddd{{ else }}color: #000;{{ end }}" href="mailto:{{ $navContact.secondary_email }}">{{ $navContact.secondary_email }}</a></li>{{ end }}
                 </ul>
             </div>
         </nav>
