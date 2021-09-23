@@ -12,6 +12,13 @@ meta_description = "View testimonials from our past clients who have worked with
 title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
+name = "Gilles Family"
+photo = "https://res.cloudinary.com/hungryram19/image/upload/v1632422153/jacob-mitro/mitro-team/DonDianeGilles_r6mewb.jpg"
+source = ""
+source_label = ""
+testimonial = "**We have used Jacob's Real Estate expertise for several years. He assisted us with the purchase and sale of a condo, sale of our home and purchase of a new one in a location we were not even aware of, purchase and sale of our daughter's home and purchase of our investment property. He is energetic, intelligent, professional, available for all stages of the process, and knowledgeable of the business. We highly recommend him and will use him again.**"
+[[testimonials]]
+date = ""
 name = "Cornwall Family"
 photo = "https://res.cloudinary.com/hungryram19/image/upload/v1629849663/jacob-mitro/mitro-team/review_x3zizl.jpg"
 source = ""
