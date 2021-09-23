@@ -27,7 +27,7 @@ branding:
   dark_logo: https://res.cloudinary.com/hungryram19/image/upload/v1629829579/jacob-mitro/mitro-team/LifeRealtyDistrictLogo_ntltr4.png
   logo_width: 120
 header:
-  top_header_color: "#021BF8"
+  top_header_color: "#257ABB"
   header_background_color: "#ffffff"
   enable_white_text: false
   enable_white_text_top: true
