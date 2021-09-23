@@ -12,6 +12,20 @@ meta_description = "View testimonials from our past clients who have worked with
 title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
+name = "Cairns Family"
+photo = ""
+source = ""
+source_label = ""
+testimonial = "We got full price for our listing and they saved us money on closing costs when we purchased our new home."
+[[testimonials]]
+date = ""
+name = "Terah W."
+photo = ""
+source = ""
+source_label = ""
+testimonial = "**Jacob was professional, reliable and literally went the distance for me. He helped me make a great decisions in my home. Will refer friends and family**"
+[[testimonials]]
+date = ""
 name = "Jarrod K."
 photo = ""
 source = ""
