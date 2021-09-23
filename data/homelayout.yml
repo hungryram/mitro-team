@@ -5,9 +5,10 @@ slideshow:
   link_label: Read More
   link: https://www.hungryram.com
   image: https://res.cloudinary.com/hungryram19/image/upload/v1631517169/jacob-mitro/mitro-team/white_kitchen.jpg
-  body: "**_\"Live, Love, and Own Las Vegas_. _We Make Clients for Life and We Get
-    You Moving.\"_**\n\nVOTE For The Mitro Team Today at [Best of Las Vegas](https://www.votebolv.com/
-    \"Vote for Best Real Estate Team Today - Mitro Team\")! "
+  body: |-
+    **_"Live, Love, and Own Las Vegas_. _We Make Clients for Life and We Get You Moving."_**
+
+    VOTE For The Mitro Team Today at [Best of Las Vegas](https://www.votebolv.com/ "Vote for Best Real Estate Team Today - Mitro Team")!
   enable_white_text: false
 home_sections:
 - template: text-and-image
@@ -18,7 +19,7 @@ home_sections:
   button: Read more
   button_link: "/our-team"
   image: https://res.cloudinary.com/hungryram19/image/upload/v1629830483/jacob-mitro/mitro-team/mitro-team_qlnqoq.png
-  image_alt_tag: John
+  image_alt_tag: Mitro Team
   image_width: 400
 - template: text-and-contact-form
   heading: We help you get the highest price in the least amount of time.
@@ -33,7 +34,7 @@ home_sections:
   background_color: "#424242"
   enable_white_text: true
 - template: home-blog
-  heading: The blog
+  heading: The Blog
   body: Keep up with the latest blog posts
 slideshow_settings:
   slide_animation: fade
