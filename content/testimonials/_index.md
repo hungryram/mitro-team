@@ -12,6 +12,13 @@ meta_description = "View testimonials from our past clients who have worked with
 title_tag = "Testimonials - Mitro Team"
 [[testimonials]]
 date = ""
+name = "Jesse"
+photo = ""
+source = ""
+source_label = ""
+testimonial = "I bought an investment property with the help of the Jacob and I will call them again next year when I am ready to buy another Las Vegas Home​"
+[[testimonials]]
+date = ""
 name = "Cairns Family"
 photo = ""
 source = ""
