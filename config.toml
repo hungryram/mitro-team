@@ -20,6 +20,11 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "NEW HOME Search"
+parent = "Buyers"
+url = "https://www.showingnew.com/bethmitro"
+weight = 2
+[[menu.main]]
 name = "Migration, Population and County Growth"
 parent = "Resources"
 url = "https://www.mitroteam.com/migration-population-and-county-growth/"
@@ -78,16 +83,16 @@ weight = 2
 name = "Featured Listings"
 parent = "Buyers"
 url = "https://search.mitroteam.com/idx/featured"
-weight = 2
-[[menu.main]]
-name = "Find Your Home Value"
-parent = "Sellers"
-url = "/home-valuation"
-weight = 1
+weight = 3
 [[menu.main]]
 name = "Search the MLS"
 parent = "Buyers"
 url = "https://search.mitroteam.com/idx/search/basic"
+weight = 1
+[[menu.main]]
+name = "Find Your Home Value"
+parent = "Sellers"
+url = "/home-valuation"
 weight = 1
 [[menu.main]]
 name = "My Account"
