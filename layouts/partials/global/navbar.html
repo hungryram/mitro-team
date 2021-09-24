@@ -64,7 +64,7 @@
 
 
 <!-- mobile -->
-<div uk-sticky="animation: uk-animation-slide-top-medium; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-dark; cls-inactive:uk-navbar-transparent; top: 400">
+<div uk-sticky="animation: uk-animation-slide-top-medium; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; cls-inactive: uk-dark; cls-inactive:uk-navbar-transparent; top: 400" {{ if $navColor.transparent_background }}{{ else }}style="background: {{ $navColor.header_background_color }};"{{ end }}>
     <nav class="uk-navbar uk-navbar-container uk-hidden@s uk-padding-small uk-box-shadow-small">
         <div class="uk-navbar-left">
             <a href="{{ .Site.BaseURL }}">
