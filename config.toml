@@ -95,10 +95,6 @@ parent = "Buyers"
 url = "https://search.mitroteam.com/idx/search/basic"
 weight = 1
 [[menu.main]]
-name = "My Account"
-url = "https://search.mitroteam.com/idx/userlogin"
-weight = 6
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
