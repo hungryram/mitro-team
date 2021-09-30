@@ -75,14 +75,14 @@ parent = "Buyers"
 url = "https://search.mitroteam.com/idx/featured"
 weight = 3
 [[menu.main]]
-name = "NEW HOME Search"
-parent = "Buyers"
-url = "https://www.showingnew.com/bethmitro"
-weight = 2
-[[menu.main]]
 name = "Free Market Report"
 parent = "Resources"
 url = "https://www.mitroteam.com/free-market-report/"
+weight = 2
+[[menu.main]]
+name = "NEW HOME Search"
+parent = "Buyers"
+url = "https://www.showingnew.com/bethmitro"
 weight = 2
 [[menu.main]]
 name = "Find Your Home Value"
