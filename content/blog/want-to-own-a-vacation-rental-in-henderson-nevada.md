@@ -9,8 +9,8 @@ tags = ["vacation rentals henderson nevada", "airbnb henderson nevada"]
 title = "Want to Own a Vacation Rental in Henderson Nevada?"
 url = ""
 [search_engine_optimization]
-meta_description = ""
-title_tag = ""
+meta_description = "short term vacation rentals henderson nevada\n"
+title_tag = "Owning a Short Term Vacation Rental in Henderson Nevada"
 
 +++
 Do you Own a Vacation Rental in Henderson Nevada? or Have you Considered this type of purchase recently? Here's what you need to know.
