@@ -20,6 +20,7 @@ contact_information:
   city: Henderson
   state: NV
   zip_code: "89052"
+  google_page_link: https://goo.gl/maps/2eCKA3gaX4HDZWoX7
 search_engine_optimization:
   title_tag: 'Best Las Vegas Realtor | Life Realty District: The Mitro Team | United
     States'
@@ -31,3 +32,4 @@ search_engine_optimization:
     twitter_username: ''
   facebook:
     app_id: ''
+  no_index: false
