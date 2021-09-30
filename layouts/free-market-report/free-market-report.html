@@ -1,0 +1,12 @@
+{{ define "main" }}
+{{ $buttonColor := $.Site.Data.appearance.colors }}
+
+    <div class="uk-section">
+        <div class="uk-container uk-text-center">
+            <h2>Get your free market report</h2>
+            <p>Click the button below, complete the form, and receive a free market report from the Mitro Team</p>
+            <a href="https://us.prospects.com/prospects/leadgrabber.do?tok=[eoQ7duaYPlaC%2By5THiPRUnj1jThPzal6NV9jhVYx9YIiU9v3JwAeItZfYL7TZQiN%2FDJQF3aDRj2%2BzGAX2%2FMmVh4i2F4zusc0]&type=4"
+            target="_blank" class="btn-primary uk-button uk-button-primary uk-margin-medium-top" {{ if $buttonColor.button_background_color }}style="background:{{ $buttonColor.button_background_color }};color:{{ $buttonColor.button_text_color }};"{{ end }}>Market Report request </a>
+        </div>
+    </div>
+{{ end }}
