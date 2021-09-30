@@ -62,3 +62,5 @@ fields:
   config: {}
   template: url
   label: URL
+pages:
+- content/blog/want-to-own-a-vacation-rental-in-henderson-nevada.md
