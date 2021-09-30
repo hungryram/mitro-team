@@ -2,7 +2,6 @@
 author = "our-team/jacob-mitro.md"
 categories = []
 date = 2021-09-30T07:00:00Z
-draft = true
 featured_image = "https://res.cloudinary.com/hungryram19/image/upload/v1633021348/jacob-mitro/mitro-team/airbnblogo_tkbidj.png"
 image_alt_tag = "vacation rentals"
 tags = ["vacation rentals henderson nevada", "airbnb henderson nevada"]
@@ -26,5 +25,3 @@ Life Realty District
 702-285-3444
 
 NV RE#s.0051190
-
- 
